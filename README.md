@@ -1,2 +1,3 @@
 # Mobile_Phone_Price_Performance
-This Is My First Git Repository . Data Analytics Project
+This Is My First Git Repository.
+Author-Ishwari Varpe
